@@ -115,7 +115,7 @@ body {
   color: white;
 }
 
-.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img12, .img13 {
+.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img12, .img13, .img11 {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -171,15 +171,15 @@ body {
   min-height: 100%;
 }
 .img11 {
-  background-image: url("../assets/july.jpg");
+  background-image: url("../assets/January.jpg");
   min-height: 100%;
 }
 .img12 {
-  background-image: url("../assets/july.jpg");
+  background-image: url("../assets/Febuary.jpg");
   min-height: 100%;
 }
 .img13 {
-  background-image: url("../assets/july.jpg");
+  background-image: url("../assets/PulkitMarch.jpg");
   min-height: 100%;
 }
 .w3-wide {
