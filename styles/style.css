@@ -115,7 +115,7 @@ body {
   color: white;
 }
 
-.img1, .img2, .img3 {
+.img1, .img2, .img3, .img4, .img5 {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -142,6 +142,14 @@ body {
   min-height: 100%;
 }
 
+.img4 {
+  background-image: url("../assets/june.jpg");
+  min-height: 100%;
+}
+.img5 {
+  background-image: url("../assets/july.jpg");
+  min-height: 100%;
+}
 .w3-wide {
   letter-spacing: 10px;
 }
